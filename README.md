@@ -155,6 +155,7 @@ Apache Airflow, і підготує до розв’язання більш ск
 
 <img width="527" height="379" alt="1" src="https://github.com/user-attachments/assets/6dc90130-4e63-47dc-b3a2-5cca8e88756e" />
 
+
 <img width="452" height="618" alt="2" src="https://github.com/user-attachments/assets/b80850a1-7741-43c9-9b25-d050ec752fc0" />
 
 
